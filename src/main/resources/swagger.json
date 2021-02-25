@@ -1,0 +1,10 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "version" : "1.0.0",
+    "title" : "User Service"
+  },
+  "host" : "locahost:8080",
+  "basePath" : "/api/v1",
+  "schemes" : [ "http" ]
+}
